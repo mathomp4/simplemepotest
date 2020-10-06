@@ -1,0 +1,11 @@
+subrepo1:
+  local: ./subrepo1
+  remote: ../subrepo1.git
+  branch: main
+  develop: main
+
+subrepo2:
+  local: ./subrepo2
+  remote: ../subrepo2.git
+  branch: main
+  develop: main
